@@ -1,0 +1,39 @@
+/************************************************ Tag ************************************************/
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 1.5rem;
+}
+h1{
+    margin: 20px auto 0px auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.5rem;
+}
+h2{
+    font-size:2.5rem;
+    font-weight:bold;
+    color: #54BAB9;
+}
+h3{
+    font-size:2rem;
+    font-weight:normal;
+}
+/************************************************ Div ************************************************/
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    margin: 0px auto 50px auto;
+    background-color: #94B49F;
+}
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+}
+/************************************************ Pic ************************************************/
+.row-picture{
+    width:50%;
+}
+.dog{
+    width:40%;
+}
